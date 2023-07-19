@@ -108,11 +108,20 @@ If you have any suggestions or questions, feel free to email us at yinzhangyue@1
 ## Citation
 If you are interested in our work, please use the following citation format when referencing our paper:
 ```bibtex
-@inproceedings{yin2023large,
-  title     = {Do Large Language Models Know What They Don't Know?},
-  author    = {Yin, Zhangyue and Sun, Qiushi and Guo, Qipeng and Wu, Jiawen and Qiu, Xipeng and Huang, Xuanjing},
-  url       = {https://arxiv.org/abs/2305.18153},
-  booktitle = {Findings of Association for Computational Linguistics (ACL)},
-  year      = {2023}
+@inproceedings{yin2023selfaware,
+    title     = "Do Large Language Models Know What They Don{'}t Know?",
+    author    = "Yin, Zhangyue  and
+      Sun, Qiushi  and
+      Guo, Qipeng  and
+      Wu, Jiawen  and
+      Qiu, Xipeng  and
+      Huang, Xuanjing",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2023",
+    month     = jul,
+    year      = "2023",
+    address   = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url       = "https://aclanthology.org/2023.findings-acl.551",
+    pages     = "8653--8665",
 }
 ```
